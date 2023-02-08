@@ -40,6 +40,7 @@ transform: translateX(0);
 }
 span{
   color: red;
+  font-size: 35px;
 }
 button{
   border: none;
@@ -67,4 +68,4 @@ img{
     from {
 transform: translateY(200px);
     }
-  }
+}
