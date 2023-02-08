@@ -38,7 +38,20 @@ main{
 transform: translateX(0);
   }
 }
-
+span{
+  color: red;
+}
+button{
+  border: none;
+  border-radius: 10px;
+  background-color: rgba(1, 8, 8, 0.865);
+  padding: 10px;
+  margin-top: 10px;
+  width: 55%;
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
+}
 img{
     border-color: blue;
     border-radius: 200px;
