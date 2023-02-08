@@ -24,7 +24,7 @@ main{
     height: 150px;
     /* background-color: aqua; */
     color: white;
-    font-size: 40px;
+    font-size: 35px;
     font-weight: bold;
     animation: move;
     animation-duration: 3s;
